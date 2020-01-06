@@ -1,0 +1,14 @@
+{
+  "name": "elektron1",
+  "version": "1.0.0",
+  "description": "\"testing elektron 1\"",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "abdi",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  }
+}
